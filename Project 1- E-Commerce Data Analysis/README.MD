@@ -36,7 +36,7 @@ The detailed analysis and model creation can be found in the .ipynb file.
 
 The Segmentation result is as follows:
 
-![test](Snips/result.jpg)
+![test](Snips/result.png)
 
 ## Conclusions :
 
