@@ -42,7 +42,8 @@ The detailed analysis can be found in the .ipynb file.
 
 The graphical representation is as follows:
 
-![test](Snips/Shark results.png)
+
+![logo](Snips/Shark results.jpg)
 
 ## Conclusions :
 
