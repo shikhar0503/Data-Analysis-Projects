@@ -1,6 +1,6 @@
 # Zomato Data Analysis
 
-![logo](Snips/ecommerce-vs-online-marketplace1603983748724190.jpg)
+![logo](Snips/zomato.jpg)
 
 ## Business Objectives :
 
