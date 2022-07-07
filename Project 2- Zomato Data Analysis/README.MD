@@ -1,6 +1,6 @@
 # Zomato Data Analysis
 
-![logo](Snips/zomato.png)
+![logo](Snips/zomato.jpg)
 
 ## Business Objectives :
 
