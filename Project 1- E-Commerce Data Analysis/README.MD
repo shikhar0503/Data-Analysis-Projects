@@ -2,7 +2,7 @@
 
 ![ML](https://img.shields.io/badge/ML-Customer_Segmentation-blue.svg) 
 
-![logo](Snips/Logo.jpg)
+![logo](Snips/ecommerce-vs-online-marketplace1603983748724190.jpg)
 
 ## Business Objectives :
 
@@ -36,7 +36,7 @@ The detailed analysis and model creation can be found in the .ipynb file.
 
 The Segmentation result is as follows:
 
-![test](Snips/1.JPG)
+![test](Snips/result.png)
 
 ## Conclusions :
 
